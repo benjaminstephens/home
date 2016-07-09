@@ -1,0 +1,16 @@
+/*
+Theme Name: Twenty Sixteen Child
+Author: Benjamin Stephens
+Description: Customisations and extensions to the 2016 theme
+Template: twentysixteen
+Version: 1.0
+Text Domain: twentysixteenchild
+*/
+
+.site{
+	margin: 0;
+}
+
+.site-content{
+	padding: 0;
+}

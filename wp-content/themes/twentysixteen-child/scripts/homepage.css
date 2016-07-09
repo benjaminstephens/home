@@ -1,0 +1,41 @@
+body{
+	background-color: black;
+	font-family: futura;
+	-webkit-text-fill-color: white;
+}
+
+#clock{
+	float: right;
+	width: 350px;
+	font-size: 60px;
+	text-align: left;
+}
+
+footer{
+	bottom: 0;
+	position: absolute;
+}
+
+#currentTemp{
+	float: left;
+	height: 250px;
+	padding-left: 35px;
+}
+
+#currentTemp h3{ font-size: 125px; margin: 0;}
+#currentTemp h4{ font-size: 22px; }
+
+#forecast{
+	position: absolute;
+	top: 1770px;
+}
+
+#forecastSummary{
+	width: 100%;
+	text-align: center;
+}
+
+#forecastDaily{
+	width: 100%;
+	padding-left: 15px;
+}
